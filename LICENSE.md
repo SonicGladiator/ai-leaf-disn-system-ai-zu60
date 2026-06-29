@@ -1,4 +1,4 @@
-# 
+# Avancé AI leaf disease detection system flux de travail. Avec reconnaissance vocale et IA de bord — optimisé pour des performances maximales.
 
 
 
